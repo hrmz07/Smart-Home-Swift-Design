@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SmartHome
+
+  Created by Hürmüs Sürücüoğlu on 30.12.2024.
+  
+*/
+"baslik" = "Smart Home";
+"altbaslik1" = "Rooms";
+"altbaslik1_1" = "Living Room";
+"altbaslik1_2" = "Bedroom";
+"altbaslik1_3" = "Kitchen";
+"altbaslik1_4" = "Bathroom";
+"altbaslik2" = "Smart Systems";
+"altbaslik2_1" = "Smart TV";
+"altbaslik2_2" = "Air Conditioner";
+"altbaslik2_3" = "Audio System";
+"altbaslik2_4" = "Heating Sys";
+"cihaz" = "Active device";

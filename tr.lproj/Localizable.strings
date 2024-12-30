@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SmartHome
+
+  Created by Hürmüs Sürücüoğlu on 30.12.2024.
+  
+*/
+"baslik" = "Akıllı Ev";
+"altbaslik1" = "Odalar";
+"altbaslik1_1" = "Salon";
+"altbaslik1_2" = "Yatak Odası";
+"altbaslik1_3" = "Mutfak";
+"altbaslik1_4" = "Banyo";
+"altbaslik2" = "Akıllı Sistemler";
+"altbaslik2_1" = "Akıllı TV";
+"altbaslik2_2" = "Klima";
+"altbaslik2_3" = "Ses Sistemi";
+"altbaslik2_4" = "Isıtma Sistemi";
+"cihaz" = "Aktif cihaz";
